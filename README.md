@@ -18,6 +18,7 @@ Toda a aplicação funciona essencialmente dentro de uma única classe Java, que
 
 
 2. Descrição dos Métodos do CRUD
+   
 O projeto implementa as quatro operações básicas de um CRUD diretamente na classe principal (essas funcionalidades garantem o funcionamento completo do CRUD dentro da interface):
 
 •	Create (Cadastrar): A aplicação coleta nome, telefone e cidade a partir dos campos de texto da interface. Após validar se todos os campos foram preenchidos, a informação é enviada ao banco por meio de uma instrução “INSERT”. Ao final, a tabela é atualizada visualmente e os campos são limpos.
