@@ -24,6 +24,11 @@ O projeto pode ser utilizado como base para sistemas de gestão simples, treinam
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Diagrama UML
+[Diagrama UML - Aplicação Clientes.pdf](https://github.com/user-attachments/files/23894847/Aplicacao.Clientes.pdf)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Cadastro de Clientes – Java + SQLite 
 
 Este é um projeto simples em Java que permite cadastrar, visualizar, editar e excluir clientes 
